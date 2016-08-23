@@ -1,5 +1,5 @@
 *{
-  font-family: sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
   box-sizing:border-box;
 }
 
@@ -22,7 +22,7 @@ section{
   border-width:1px;
   position: relative;
   padding: 30px 20px 10px 20px;
-  background-color: lightgray;
+  background-color: #a6a6a6;
 }
 
 
@@ -40,13 +40,14 @@ section>h2{
 }
 
 #chickenHeader {
-  background-color: red;
+  background-color: #ff9999;
 }
 #beefHeader {
-  background-color: green;
+  background-color: #b30000;
+  color: white;
 }
 #sushiHeader{
-  background-color: blue;
+  background-color: #fff0b3;
 }
 
 
