@@ -23,8 +23,8 @@ nav{
   margin-bottom: 0;
   padding-bottom: 5px;
 }
-.navbar-brand{
-  margin-left: 20px;
+.navbar>.container-fluid .navbar-brand{
+  margin-left: 5px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
